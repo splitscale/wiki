@@ -10,7 +10,7 @@ This guide provides recommendations for naming conventions in software developme
 - Use a hierarchical naming convention, with words separated by dots.
 - Avoid using abbreviations or acronyms.
 
-Example: `com.mycompany.mypackage`
+Example: `com.splitscale.myproject.mypackage`
 
 ### Classes and Interfaces
 
@@ -58,7 +58,7 @@ src/
     └── java/
         └── com/
             └── splitscale/
-                └── project/
+                └── myproject/
                     └── mypackage/
                         └── MyClass.java
 ```
